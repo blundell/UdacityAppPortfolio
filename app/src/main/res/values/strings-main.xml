@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="main_title">@string/my_nanodegree_apps</string>
+  <string name="main_launch_app">@string/this_button_will_launch_my_X_app</string>
+
+  <string name="main_app_name_streamer">@string/streamer</string>
+  <string name="main_app_name_scores">@string/football_scores</string>
+  <string name="main_app_name_library">@string/library</string>
+  <string name="main_app_name_build_it_bigger">@string/build_it_bigger</string>
+  <string name="main_app_name_xyz_reader">@string/xyz_reader</string>
+  <string name="main_app_name_my_own">@string/name_to_be_continued</string>
+</resources>
